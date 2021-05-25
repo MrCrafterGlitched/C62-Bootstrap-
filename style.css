@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    color: palegoldenrod;
+}
+#Apps{
+font-size: 25px;
+    background-color:cornflowerblue
+}
+.line{
+    width: 100px;
+    color: darkorange;
+    height: 6px;
+    background-color: floralwhite;
+    border: 2px dashed red;
+    margin: 25px auto;
+}
+#Games{
+    background-color: darkorange;
+    
+}
+#Chatbot{
+    background-color: darksalmon;
+}
+img{
+    transition: transform 5s;
+    width: 200px;
+        height: 200px
+}
+img:hover{transform: rotate(30deg)}
